@@ -1,0 +1,4 @@
+12,Java,12/06/2020,3,Harton David,Harton Maria,Harton Claudiu,2.56,3.78,9.56,4.50,
+11,Analiza matematica,23/05/2019,2,Lumperdean Radu,Florea Silvia,1.45,9.7,4.00,
+43,C#,23/05/2019,2,Harton Daniel,Popescu Ionut,7.1,3.5,4.00
+10,C++,01/11/2020,3,Vaduva Rares,Dobrot Rares,Aioane Marian,2.4,7.3,4.5,5.00,
