@@ -1,8 +1,0 @@
-23,Ramada Parc,10,Harton David,01/05/2021-12/05/2021,600.34,
-10,Ramada Plaza,8,Harton Maria,13/04/2020-20/04/2020,800.45,
-12,Orhideea Residence & Spa,12,Harton Daniel,01/01/2018-10/01/2018,900.56,
-25,Radisson Blu,4,Teodora Andreea,06/12/2015-10/12/2015,400.34,
-76,Union Plaza,7,Florea Silvia,20/11/2017-30/11/2017,500.23,
-22,Ramada Parc,10,Leon Gheorghe,01/05/2021-12/05/2021,600.34,
-1,Ramada Parc,5,Harton Claudiu,01/05/2021-12/05/2021,600.34,
-3,Ramada Parc,11,Lepadatu Vasile,01/05/2021-12/05/2021,600.34,
