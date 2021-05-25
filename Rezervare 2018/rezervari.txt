@@ -1,0 +1,8 @@
+Ramada Parc,Harton David,7,APEL_TELEFONIC,
+Ramada Plaza,Harton Maria,5,APLICATIE_MOBILA,
+Orhideea Residence & Spa,Harton Daniel,4,APEL_TELEFONIC,
+Radisson Blu,Teodora Andreea,2,APEL_TELEFONIC,
+Union Plaza,Florea Silvia,3,APEL_TELEFONIC,
+Ramada Parc,Leon Gheorghe,1,APLICATIE_MOBILA,
+Ramada Parc,Harton Claudiu,4,APLICATIE_MOBILA,
+Ramada Parc,Lepadatu Vasile,3,APEL_TELEFONIC,
