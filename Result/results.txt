@@ -1,0 +1,7 @@
+ABC12,Harton David,23,5,20,
+DFR41,Lumperdean Radu,10,7,15,
+REW2,Harton Claudiu,30,3,21,
+TYR5,Harton Maria,20,8,25,
+GHY14,Harton Daniel,11,13,30,
+RTY9,Popa Marian,10,3,18,
+ABC12,Harton Claudiu,23,5,20,
