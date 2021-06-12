@@ -1,0 +1,4 @@
+15,Lidl Crangasi,Bucuresti,2510.56,30,
+23,Penny Market,Calarasi,3400.20,20,
+30,Mega Image,Bucuresti,2400.45,35,
+42,Profi,Constanta,1500.22,29,
