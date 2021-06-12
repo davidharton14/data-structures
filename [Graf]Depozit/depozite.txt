@@ -1,0 +1,5 @@
+1,3E4R5T,300,57.57,30,5,Izolatii termice,Pachete termoizolatii,Poduse metalurgice,Instalatii sanitare,Surse de caldura,
+2,5FGTGD,100,44.78,34,5,Izolatii termice,Pachete termoizolatii,Poduse metalurgice,Instalatii sanitare,Surse de caldura,
+3,5GJU6U,560,57.57,20,5,Izolatii termice,Pachete termoizolatii,Poduse metalurgice,Instalatii sanitare,Surse de caldura,
+4,5EDFS3,780,45.67,70,5,Izolatii termice,Pachete termoizolatii,Poduse metalurgice,Instalatii sanitare,Surse de caldura,
+5,6HJIK7,440,34.67,80,5,Izolatii termice,Pachete termoizolatii,Poduse metalurgice,Instalatii sanitare,Surse de caldura,
