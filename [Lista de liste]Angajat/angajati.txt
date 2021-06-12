@@ -1,0 +1,7 @@
+12,Harton David,3,HR,Oracle,4000.45,
+7,Harton Maria,2,PR,Regina Maria,3500.55,
+27,Harton Claudiu,5,IT,Metro Systems,7500.23,
+23,Harton Claudiu,5,IT,Metro Systems,1000.23,
+11,Harton Maria,2,PR,Regina Maria,6500.55,
+19,Harton Maria,2,PR,Regina Maria,3500.55,
+10,Harton David,3,HR,Oracle,4000.45,
