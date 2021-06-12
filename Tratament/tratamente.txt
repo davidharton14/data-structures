@@ -1,7 +1,0 @@
-12,Harton David,234,4,150,
-10,Harton Maria,134,7,340,
-2,Harton Daniel,378,2,50,
-5,Harton Claudiu,450,1,800,
-23,Harton Maria,134,7,340,
-6,Harton Daniel,378,2,50,
-1,Harton Claudiu,450,1,800,

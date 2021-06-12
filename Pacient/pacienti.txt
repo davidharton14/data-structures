@@ -1,7 +1,0 @@
-12,Harton David,setea excesiva,23,1,1
-30,Georgescu Mihai,disfunctie erectila,24,5,1
-18,Florea Crina,caderea parului,18,4,1
-28,Popescu Claudiu,oboseala,20,2,2
-67,Popa Marian,ameteala,25,3,3
-15,Lumperdean Radu,pierderi de memorie,22,2,3
-5,Gheorghe Gabriel,disfunctie erectila,24,5,1

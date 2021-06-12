@@ -1,5 +1,0 @@
-254,11,34,6,Harton David,
-100,3,12,5,Harton Maria,
-756,16,15,7,Harton Daniel,
-123,2,10,3,Harton Claudiu,
-287,1,15,2,Harton Cristina,

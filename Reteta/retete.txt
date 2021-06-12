@@ -1,7 +1,0 @@
-23,10,Parasinus,Faringo,Algocalmin,Nurofen,Ambroxol,Coldrex,Aspenter,Bioflu,Antinevralgic,Codamin,Harton David,340,0.5,
-13,10,Parasinus,Faringo,Algocalmin,Nurofen,Ambroxol,Coldrex,Aspenter,Bioflu,Antinevralgic,Codamin,Harton Maria,340,0.5,
-3,10,Parasinus,Faringo,Algocalmin,Nurofen,Ambroxol,Coldrex,Aspenter,Bioflu,Antinevralgic,Codamin,Harton Claudiu,340,0.5,
-45,10,Parasinus,Faringo,Algocalmin,Nurofen,Ambroxol,Coldrex,Aspenter,Bioflu,Antinevralgic,Codamin,Harton Daniel,340,0.5,
-10,10,Parasinus,Faringo,Algocalmin,Nurofen,Ambroxol,Coldrex,Aspenter,Bioflu,Antinevralgic,Codamin,Harton Daniel,340,0.5,
-5,10,Parasinus,Faringo,Algocalmin,Nurofen,Ambroxol,Coldrex,Aspenter,Bioflu,Antinevralgic,Codamin,Harton Daniel,340,0.5,
-1,10,Parasinus,Faringo,Algocalmin,Nurofen,Ambroxol,Coldrex,Aspenter,Bioflu,Antinevralgic,Codamin,Harton Maria,340,0.5,
