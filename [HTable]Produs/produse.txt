@@ -1,0 +1,6 @@
+Drojdie proaspata,5,200.3,60.3,150.2,40.2,300,1.55,50,
+Drojdie proaspata,4,260,30,140,20,0.82,25,
+Mozzarella,5,220,10,170,70,400,3.99,125,
+Cascaval felii clasic,5,500,340,270,190,320,7.33,150,
+Iaurt 5% grasime,5,350,130,60,110,620,5.23,150,
+Drojdie proaspata,4,260,30,140,20,0.82,25,
