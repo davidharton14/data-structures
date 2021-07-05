@@ -1,6 +1,0 @@
-Mamaia,5450.32,1,12,autocar,10,Basarab hotel,Harton David,
-Hawai,10450.45,1,20,avion,30,Rin hotel,Harton Maria,
-Tenerife,3547.47,4,11,avion,20,Ambiance hotel,Harton Cristina,
-Mallorca,4590.11,10,17,avion,15,Orhideea hotel,Harton Daniel,
-Cipru,3428.56,16,28,avion,21,Hestia hotel,Harton Claudiu,
-Mamaia,5450.32,3,15,autocar,10,Mamaia hotel,Popa Viorel,
