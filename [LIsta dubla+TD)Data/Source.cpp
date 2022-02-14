@@ -125,6 +125,30 @@ void displayH(HashTable* h) {
 		}
 	}
 }
+int cautare(HashTable* h,int data) {
+	int sw = 0;
+	if (h) {
+		for (int i = 0; i < h->size; i++)
+		{
+			if (h->slots[i]) {
+				Nod*temp = h->slots[i];
+				while (temp)
+				{
+					if (data == temp->info->data) {
+						sw = 1;
+					}
+					temp = temp->next;
+				}
+			}
+		}
+	}
+	if (sw) {
+		return 1;
+	}
+	else {
+		return 0;
+	}
+}
 void stergereListaDubla(Nod* node) {
 
 	Nod* temp = (Nod*)malloc(sizeof(Nod));
@@ -176,7 +200,16 @@ void main() {
 	HashTable* h = (HashTable*)malloc(sizeof(HashTable));
 	inserareInHT(cap,h,m,a,b,c);
 	displayH(h);
-	
+	int n;
+	printf("Tasteaza numarul pe care vrei sa il cauti in tabela de dispersie:");
+	scanf("%d", &n);
+	int element=cautare(h, n);
+	if (element) {
+		printf("Numarul %d a fost gasit!\n", n);
+	}
+	else {
+		printf("Numarul %d nu a fost gasit!\n", n);
+	}
 	stergereListaDubla(cap);
 	stergereHashTable(&h);
 }
